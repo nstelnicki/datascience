@@ -1,0 +1,3 @@
+# RPi.GPIO is typically installed via apt-get on Raspberry Pi OS (sudo apt-get install python3-rpi.gpio)
+# Listing it here for documentation of dependency.
+RPi.GPIO
